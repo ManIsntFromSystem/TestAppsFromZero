@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestAppFromZero</string>
+    <string name="app_name_music">Music Player</string>
 </resources>

@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.498"
-        android:onClick="chengeImage1"
+        android:onClick="changeImage"
         app:srcCompat="@drawable/sgushchennoe_moloko" />
 
     <ImageView
@@ -30,7 +30,7 @@
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.498"
-        android:onClick="chengeImage2"
-        app:srcCompat="@drawable/smozi" />
+        android:onClick="changeImage"
+        app:srcCompat="@drawable/vegtables1" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
